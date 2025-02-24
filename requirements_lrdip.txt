@@ -1,0 +1,14 @@
+ipython
+ismrmrd == 1.14.*
+matplotlib
+notebook
+numpy < 2.0.0
+pandas
+papermill
+pillow
+pyyaml
+scikit-image
+scipy
+sigpy == 0.1.26
+tensorflow[and-cuda] == 2.16.1
+tqdm
