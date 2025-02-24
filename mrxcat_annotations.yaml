@@ -1,0 +1,21 @@
+mrxcat1:
+  bbox: [25, 20, 80, 80]  # [x, y, width, height]
+  center: [75, 50]  # [x, y]
+mrxcat2:
+  bbox: [20, 30, 80, 80]
+  center: [70, 70]
+mrxcat3:
+  bbox: [35, 50, 75, 75]
+  center: [75, 85]
+mrxcat4:
+  bbox: [40, 70, 70, 70]
+  center: [80, 100]
+mrxcat5:
+  bbox: [35, 30, 70, 70]
+  center: [75, 60]
+mrxcat6:
+  bbox: [35, 45, 75, 75]
+  center: [80, 75]
+mrxcat7:
+  bbox: [20, 5, 70, 70]
+  center: [65, 35]

@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+ipython
+ismrmrd == 1.14.*
+matplotlib
+notebook
+numpy < 2.0.0
+pandas
+papermill
+pillow
+pyyaml
+scikit-image
+scipy
+sigpy == 0.1.26
+torch == 2.3.0
+tqdm
