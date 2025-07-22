@@ -1,13 +1,16 @@
-# Motion-Guided Deep Image Prior (M-DIP)
+# Multi-Dynamic Deep Image Prior (M-DIP)
 
 Contact: marc.vornehm@fau.de, rizwan.ahmad@osumc.edu
 
 ## Publication
-This work has been submitted for publication in Magnetic Resonance in Medicine.
-A preprint is available on [arXiv](https://arxiv.org/abs/2412.04639).
+Please cite the [original publication](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.70000) as follows:
+
+> Vornehm M, Chen C, Sultan MA, et al. Multi-dynamic deep image prior for cardiac MRI. *Magn Reson Med.* 2025; Early View. doi: 10.1002/mrm.70000
+
+Additionally, a preprint is available on [arXiv](https://arxiv.org/abs/2412.04639).
 
 ## Overview
-Motion-Guided Deep Image Prior is a novel unsupervised reconstruction framework for accelerated realtime cardiac MRI.
+Multi-Dynamic Deep Image Prior is a novel unsupervised reconstruction framework for accelerated realtime cardiac MRI.
 M-DIP employs a spatial dictionary to synthesize a time-dependent template image, which is further refined using time-dependent deformation fields that model cardiac and respiratory motion.
 
 ![M-DIP overview](overview.png)
